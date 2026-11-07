@@ -7,7 +7,7 @@ A reverse Polish notation (RPN) calculator written in LC-3 assembly language. Ty
 - Adds, subtracts, multiplies, and divides 16-bit signed integers
 - Accepts multi-digit numbers (up to 4 digits)
 - Displays the top of the stack with `.`
-- Catches bad input, empty-stack use, division by zero, and overflow — and tells you which one happened
+- Catches bad input, empty-stack use, division by zero, and overflow - and tells you which one happened
 
 ## Get Started
 
@@ -21,7 +21,7 @@ lc3as RPNSMC.asm
 lc3sim RPNSMC.obj
 ```
 
-That's it — the whole program is the single file `RPNSMC.asm`. No other dependencies.
+That's it - the whole program is the single file `RPNSMC.asm`. No other dependencies.
 
 ## Example session
 
