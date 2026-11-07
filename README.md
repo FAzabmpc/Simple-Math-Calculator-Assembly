@@ -1,6 +1,6 @@
 # Simple Math Calculator — Assembly
 
-A reverse Polish notation (RPN) calculator written in LC-3 assembly language. Type numbers onto a stack, then type an operator to do the math — no parentheses, no equals key.
+A reverse Polish notation (RPN) calculator written in LC-3 assembly language. Type numbers onto a stack, then type an operator to do the math - no parentheses, no equals key.
 
 ## What it does
 
